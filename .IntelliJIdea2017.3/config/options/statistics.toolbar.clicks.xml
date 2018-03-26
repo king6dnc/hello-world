@@ -1,0 +1,20 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="AppServers.RunServer@ServersToolWindowContent#Toolbar" count="2" />
+      <entry action="FileChooser.GotoProject@FileChooserDialog" count="1" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="2" />
+      <entry action="Rerun@RunnerToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="27" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="1" />
+      <entry action="com.intellij.execution.util.EnvVariablesTable$4@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="2" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$ToggleSoftWraps@EventLog" count="2" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@EventLog" count="2" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTree$6@ChangesBrowser" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="5" />
+    </counts>
+  </component>
+</application>
